@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI',sans-serif;
+}
+table td,th{
+    padding: 5px;
+}
+body {
+    background-color: azure;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-direction: column;
+    height: 100vh;
+}
